@@ -6,4 +6,4 @@ Isso seria uma oportunidade de colocar em prática os conhecimentos obtidos em u
 No entanto, a empresa usava as soluções Google Apps em toda sua rotina, principalmente em função da praticidade, custo e popularidade destas ferarmentas.
 Isso me estimulou a aprender usar estas soluções e consegui desenvolver melhorias usando principalmente Google Planilhas e Formulários. 
 
-São estas melhorias que apresentarei neste repositório.
+Estas melhorias serão apresentadas neste repositório (arquivos) e no Kaggle.
